@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 ![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
-![AngryTypingGIF (2)](https://user-images.githubusercontent.com/105569880/175815030-03fb0809-01be-4c7e-aedd-6dc40b03da7c.gif)
 
 <!---
 profmarciooliveira4/profmarciooliveira4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
