@@ -1,10 +1,8 @@
-👋 Hi, I’m @profmarciooliveira4
-👀 I’m interested in  verificar os códigos e arquivos de alunoS  da primeira série do NEM.
-
-💻- I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me :
-![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
+- 👋 Oi, sou @profmarciooliveira4
+- 👀 I’m interested in  verificar os códigos e arquivos de alunoS  da primeira série do NEM.
+- 💻- I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :
 
 <!---
 profmarciooliveira4/profmarciooliveira4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +15,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
           
          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" width="40" height="40"/>
+![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
+
           
