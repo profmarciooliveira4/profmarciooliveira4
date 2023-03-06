@@ -1,5 +1,5 @@
 - 👋 Oi, sou @profmarciooliveira4
-- 👀 Fiz este GitHub para verificar os códigos e arquivos de alunoS  da primeira série do NEM.
+- 👀 Fiz este GitHub para verificar os códigos e arquivos de estudantes da primeira e segunda série do NEM.
 - 💻- Eu estou em constante aprendizado ...
 
 <!---
