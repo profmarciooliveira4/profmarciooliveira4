@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
        
          
 ![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
