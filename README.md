@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />)
-         
+       
          
 ![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
 
