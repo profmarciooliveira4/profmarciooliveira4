@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github.com/camilafernanda/camilafernanda/raw/output/github-contribution-grid-snake.svg)
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
           
 
