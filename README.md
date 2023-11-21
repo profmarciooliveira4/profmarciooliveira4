@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
        
          
-![AngryTypingGIF](https://user-images.githubusercontent.com/105569880/175815020-6fdde529-118c-4cf1-ab25-4cc2f6d31b9a.gif)
+![AngryTypingGIF](https://scontent.fbfh9-1.fna.fbcdn.net/v/t39.30808-6/402935136_7310448795632504_8534185134206100668_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH29Mq635JJUStkSBPz3bTqXB5UgHSdI6ZcHlSAdJ0jpnPyffLZQ-I4k5SKtZZMeCLROyz0KSHf9AdvatLxcaKy&_nc_ohc=OXZmNdXtPjEAX-KVWFl&_nc_ht=scontent.fbfh9-1.fna&oh=00_AfC06ClxII5rJFbAtkq2XrYUqWWsaNbvlBVDyZd4wBZ5sA&oe=65623A71)
 
 
 ![](https://github.com/camilafernanda/camilafernanda/raw/output/github-contribution-grid-snake.svg)
